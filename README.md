@@ -9,15 +9,14 @@
 
 <h2>Programming Languages that I know:</h2>
 <ol>
-  <li>CSS</li>
-  <li>HTML</li>
-  <li>SQL</li>
-  <li>Oracle</li>
+  <li>HTML/CSS</li>
+  <li>JavaScript</li>
+  <li>SQL(MySQL/Oracle)</li>
   <li>PHP</li>
   <li>Java</li>
-  <li>JavaScript</li>
+  <li>C#</li>
+  <li>COBOL</li>
 </ol>
 
 ---
-
 
