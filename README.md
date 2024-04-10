@@ -2,7 +2,7 @@
 <p>😎 A Computer Programming student at Algonquin College.</p>
 <p>👀 I’m interested in web development and programming.</p> 
 <p>🌱 I’m currently learning Mobile Graphical Interface Programming, System Analysis, Design Patterns and more.</p>
-<p>💞️ I’m looking to collaborate on cool projects especially front-end development.</p>
+<p>💞️ I’m looking to collaborate on cool projects especially front-end development or cypress testing.</p>
 <p>📫 Reach me on deca0107@algonquinlive.com</p>
 
 ---
@@ -16,6 +16,7 @@
   <li>Java</li>
   <li>C#</li>
   <li>COBOL</li>
+  <li>Python</li>
 </ol>
 
 ---
