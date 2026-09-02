@@ -1,6 +1,6 @@
 # Hi, I'm Aira 👋
 
-Junior Software Developer based in Ottawa, ON, working in **software development** with a growing focus on AI-assisted engineering. I recently finished a Computer Programming diploma and I'm always looking for the next thing worth building.
+Software Developer based in Ottawa, ON, working in **software development** with a growing focus on AI-assisted engineering. I recently finished a Computer Programming diploma, and I'm always looking for the next thing worth building.
 
 ## 🛠 Best at
 
